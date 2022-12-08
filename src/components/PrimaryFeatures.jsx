@@ -12,27 +12,33 @@ import screenshotVatReturns from '@/images/screenshots/vat-returns.png'
 
 const features = [
   {
-    title: 'Payroll',
+    title: 'Uncontested Divorce',
     description:
-      "Keep track of everyone's salaries and whether or not they've been paid. Direct deposit not supported.",
+      "Keeping the process simple, without the drama",
     image: screenshotPayroll,
   },
   {
-    title: 'Claim expenses',
+    title: 'Pre-nuptial Agreements',
     description:
-      "All of your receipts organized into one place, as long as you don't mind typing in the data by hand.",
+      "Helping you create financial certainty for your family",
     image: screenshotExpenses,
   },
   {
-    title: 'VAT handling',
+    title: 'Estate Planning',
     description:
-      "We only sell our software to companies who don't deal with VAT at all, so technically we do all the VAT stuff they need.",
+      "Taking care of those you love after you're gone",
     image: screenshotVatReturns,
   },
   {
-    title: 'Reporting',
+    title: 'Real Estate',
     description:
-      'Easily export your data into an Excel spreadsheet where you can do whatever the hell you want with it.',
+      'Finalizing your new home purchase or refinance',
+    image: screenshotReporting,
+  },
+  {
+    title: 'Contracts',
+    description:
+      'Helping you navigate complicated legal issues',
     image: screenshotReporting,
   },
 ]
