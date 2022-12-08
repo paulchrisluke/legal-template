@@ -10,7 +10,7 @@ import { PrimaryFeatures } from '@/components/PrimaryFeatures'
 import { SecondaryFeatures } from '@/components/SecondaryFeatures'
 // import { Testimonials } from '@/components/Testimonials'
 
-export default function Pricing() {
+export default function Price() {
   return (
     <>
       <Head>
